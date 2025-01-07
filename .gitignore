@@ -31,3 +31,8 @@ config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 config/xaerominimap_entities.json
 shaderpacks/ComplementaryReimagined_r5.3.zip.txt
+/config/apotheosis
+config/embeddium-options.json
+config/jei/recipe-category-sort-order.ini
+config/notenoughanimations.json
+config/oculus.properties
